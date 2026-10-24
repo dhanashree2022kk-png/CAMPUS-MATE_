@@ -1,0 +1,1 @@
+The current beginner-friendly CampusMate MVP keeps route handlers in the top-level `app.py` to make local installation simpler. This folder is reserved for future modularization; the application does not import from this directory.
